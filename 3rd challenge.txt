@@ -1,0 +1,11 @@
+<script> 
+
+    function ReverseString(str) { 
+
+    return str.split('').reverse().join('') 
+
+    } 
+
+    console.log(ReverseString("ganavi ganu")) 
+
+</script>
